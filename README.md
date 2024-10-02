@@ -38,7 +38,7 @@ Arquivo JSON gerado com sucesso!
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/projeto-ceps.git
+   git clone https://github.com/chrisbmineiro/challenge-04-viacep-api.git
    ```
 
 2. Compile e execute o programa:
